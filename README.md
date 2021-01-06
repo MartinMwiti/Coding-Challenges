@@ -1,3 +1,5 @@
+## Data Structure and Algorithm
+
 My solutions to coding interview problems on LeetCode, LintCode and other interview preparation resources. I will be adding my solutions to this repository every day starting January 7, 2021.
 
 __Difficulty Levels solved__
