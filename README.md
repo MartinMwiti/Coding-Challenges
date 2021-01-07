@@ -4,14 +4,14 @@ My solutions to coding interview problems on HackerRank, LeetCode, LintCode, Gee
 
 __Difficulty Levels solved__
  
- :white_circle: Easy: 0  
+ :white_circle: Easy: 1  
  :large_blue_circle: Medium: 0  
  :red_circle: Hard: 0  
  :black_circle: Very Hard: 0  
  :star: Good to review
 
- __Total:__ 0
+ __Total:__ 1
 
 ## Day 0
-Adding solutions to all problems I have already completed
+:white_circle: [Two Sum]() **Indices of the two numbers that add up to a given target.**
 
