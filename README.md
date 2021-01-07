@@ -12,6 +12,14 @@ __Difficulty Levels solved__
 
  __Total:__ 1
 
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
 ## Day 0
-:white_circle: [Two Sum]() **Indices of the two numbers that add up to a given target.**
+__Focus for today:__ Arrays
+
+:white_circle: :star: [Two Sum]() **Indices of the two numbers that add up to a given target.**
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+## Day 1
+__Focus for today:__ Arrays
 
