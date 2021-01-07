@@ -17,7 +17,7 @@ __Difficulty Levels solved__
 ## Day 0
 __Focus for today:__ Arrays
 
-:white_circle: :star: [Two Sum]() **Indices of the two numbers that add up to a given target.**
+:white_circle: :star: [Two Sum](https://github.com/MartinMwiti/Coding-Challenges/blob/main/Array/twoSum.py) **Indices of the two numbers that add up to a given target.**
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 ## Day 1
