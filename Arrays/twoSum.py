@@ -7,26 +7,22 @@
 #  expected inputs - array, -target
 # expected output -- indices
 
-def sum(arr, target):
+def findTwoSum(arr, target):
     # edge cases
     if (len(arr) < 2):
         return 'undefined'
     
-    for i in range(len(arr)-1):
+    for i in range(len(arr)):
         lookUpValue = target - arr[i]
         # print("lookup", lookUpValue)
         for j in range(i+1, len(arr)):
             if arr[j] == lookUpValue:    
-                return list((i,j))
-            else:
-                j +=1
-
-        i +=1
+                return [i, j]
     
     return "Not Found"
 
 
-arr = [1, 3, 5, 9, 2]
+arr = [1, 3, 9, 5, 2]
 target = 11
-result = sum(arr, target)
+result = findTwoSum(arr, target)
 print(result)
